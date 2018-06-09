@@ -1,0 +1,23 @@
+{
+  "name": "HLT web",
+  "version": "0.1",
+  "description": "Convert to polytonic greek.",
+  "permissions": ["<all_urls>", "tabs", "activeTab", "storage"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["myscript.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "browser_action": {
+      "default_popup": "popup.html",
+	  "default_icon": {
+		"32":"hlt.png"
+		}
+	},
+	"icons": {
+		"32":"hlt.png"
+	},
+  "manifest_version": 2
+}
