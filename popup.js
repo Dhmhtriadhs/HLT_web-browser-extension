@@ -1,7 +1,7 @@
 /**
  * @file Controling the extension
  * @author Dimitriadis Dimitris <karaokesuite@gmail.com>
- * @version 0.1
+ * @version 0.11
  */
 
 /**

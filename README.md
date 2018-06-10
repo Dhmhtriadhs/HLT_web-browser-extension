@@ -1,4 +1,3 @@
-# HLT web browser extension
 This is open source software released under the BSD license.
 The full text of this license is found in the file 'LICENSE',
 included with this source code package.
@@ -12,3 +11,4 @@ is to provide a draft version of greek polytonic web page by
 converting monotonic greek web pages to polytonic.
 
 ------------------------------------------------------------------------
+
